@@ -1,6 +1,8 @@
-## Hello-world
+# Hello-world
 
-### Heading test
+## Secondary heading
+
+### Tertiary heading
 
 practice file
 
